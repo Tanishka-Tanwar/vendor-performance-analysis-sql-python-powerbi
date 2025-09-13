@@ -154,7 +154,7 @@ python scripts/get_vendor_summary.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ayushi Mishra**  
+**Tanishka Tanwar**  
 Data Analyst  
 📧 Email: tanwartanishka82@gmail.com  
 🔗 [LinkedIn] (https://www.linkedin.com/in/tanishka-tanwar-479192304/)
